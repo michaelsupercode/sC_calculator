@@ -6,6 +6,16 @@
 body {
     display: flex;
     justify-content: center;
+    margin-top: 10vh;
+    height: 50vh;
     background-color: #322828;
     color: white;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5vh;
+    color:black;
+    background-color: white;
 }
